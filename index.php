@@ -1,5 +1,5 @@
 <?php
-// Project: Easy and Lightweight WordPress Installer
+// Project: WP Quick Install
 
 $zipUrl = 'https://wordpress.org/latest.zip';
 $zipFile = 'latest.zip';
